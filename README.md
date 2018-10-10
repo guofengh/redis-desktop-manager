@@ -1,0 +1,2 @@
+# redis-desktop-manager
+redis
